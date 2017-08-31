@@ -8,7 +8,7 @@ One of the datasets comes from the Land and Information New Zealand (LINZ), whic
 Zealand government organisation. LINZ responsibilities include managing land titles, geodetic
 and cadastral survey systems, topographic information, hydrographic information, managing
 Crown property and supporting government decision making around foreign ownership. The
-LINZ dataset used in this assignment is a comprehensive list of New Zealand addresses.
+LINZ dataset here is a comprehensive list of New Zealand addresses.
 
 The other dataset comes from Stronger Christchurch Infrastructure Rebuild Team (SCIRT)
 Project. SCIRT goal is to creat resilient infrastructure that gives people security and 
